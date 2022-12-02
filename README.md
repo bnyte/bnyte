@@ -15,4 +15,4 @@ I'm JiXiang Liu, A back-end developer, I'm working towards a full stack engineer
 -->
 
 
-![JiXiang Liu's github stats](https://github-readme-stats.vercel.app/api?username=bnyte&show_icons=true&theme=dark)
+![JiXiang Liu's github stats](https://github-readme-stats.vercel.app/api?username=bnyte&show_icons=true)
