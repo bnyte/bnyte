@@ -5,7 +5,7 @@ I'm JiXiang Liu, A back-end developer, I'm working towards a full stack engineer
 [:email: Mail](bnytezz@gmail.com)
 
 ## other
-- ⚡ Languages: Java, React, Vue, TypeScript, JavaScript
+- ⚡ Languages: Java, React, Vue, TypeScript, JavaScript, Dart, Golang
 - 🌱 I’m currently learning Frontend
 - 🌱 I’m currently learning BigData
 - 🌱 I’m currently learning k8s
